@@ -1,2 +1,2 @@
 # ArcGISAdmin
-Tools for admin of the ArcGIS site license -- removing members, etc.
+Tools for admin of the ArcGIS organizational account at The Claremont Colleges library
